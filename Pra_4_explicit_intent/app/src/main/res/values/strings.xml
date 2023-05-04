@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pra_4_explicit_intent</string>
+    <string name="my_name">Enter Your Name</string>
+    <string name="button1">next</string>
+    <string name="my_number">Enter Your Roll No.</string>
+    <string name="button2">back</string>
+</resources>
