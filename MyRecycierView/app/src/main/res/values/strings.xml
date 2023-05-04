@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyRecycierView</string>
+    <string name="num">Contact</string>
+    <string name="C_num">Contact number</string>
+    <string name="c_photo_description">Contact description</string>
+</resources>
